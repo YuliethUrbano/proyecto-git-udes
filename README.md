@@ -29,3 +29,5 @@ En construccion - Taller de Git UDES 2026
 =======
 Proyecto en desarrollo activo - Version 1.0
 >>>>>>> 9ab74de675a912234a9243ae0940e1d36e79294b
+
+------Simular un cambio remoto y hacer pull
