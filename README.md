@@ -1,9 +1,9 @@
 # Proyecto Git UDES
 
-## Descripción
+## Descripciï¿½n
 
 Este repositorio fue creado como parte del taller de Control de Versiones
-de la asignatura Herramientas de Ingeniería de Software - 2026A.
+de la asignatura Herramientas de Ingenierï¿½a de Software - 2026A.
 
 ## Integrantes
 
@@ -16,3 +16,5 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 
 \- HTML
 
+## Estado del Proyecto
+En construccion - Taller de Git UDES 2026
